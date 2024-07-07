@@ -29,7 +29,7 @@ To run the ClassRoom-Student application locally, follow these steps:
 
 ### Prerequisites
 
-- React and npm (for the client)
+- Node.js and npm (for the client)
 - Java and Maven (for the server)
 
 ### Client
